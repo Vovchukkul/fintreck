@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/fintreck/static/css/main.226539ae.css",
+    "main.js": "/fintreck/static/js/main.ae739a5f.js",
+    "index.html": "/fintreck/index.html",
+    "main.226539ae.css.map": "/fintreck/static/css/main.226539ae.css.map",
+    "main.ae739a5f.js.map": "/fintreck/static/js/main.ae739a5f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.226539ae.css",
+    "static/js/main.ae739a5f.js"
+  ]
+}

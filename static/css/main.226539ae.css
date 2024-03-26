@@ -1,0 +1,2 @@
+.App{margin:0;padding:0}.loading{align-items:center;background-color:#2e2e2e;display:flex;height:100vh;justify-content:center;width:100vw}.loading__logo{animation:loading 2s ease-in-out infinite;height:120px;width:120px}@keyframes loading{0%{transform:scale(1)}50%{transform:scale(1.5)}to{transform:scale(1)}}
+/*# sourceMappingURL=main.226539ae.css.map*/
